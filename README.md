@@ -36,7 +36,7 @@ I’ll be sharing all my personal and learning projects here. Each one is a step
 ## 📫 How to reach me
 
 - Email: omcfagundes@gmail.com
-- LinkedIn: ([Visit my LinkedIn profile](https://www.linkedin.com/in/otaviofagundes))
+- LinkedIn: ([Visit my LinkedIn profile](https://www.linkedin.com/in/otavio-fagundes-93a6331b0))
 - GitHub: [github.com/otaviomendesfagundes](https://github.com/otaviomendesfagundes)
 
 ---
