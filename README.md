@@ -23,7 +23,7 @@ I'm currently learning **Responsive Web Design** through FreeCodeCamp, and I'm u
 I’ll be sharing all my personal and learning projects here. Each one is a step forward in my development journey!
 
 - [Tribute Page - Richard Rasmussen](https://github.com/otaviomendesfagundes/tributo-richard)
-- [Professional HTML Form](https://github.com/otaviomendesfagundes/formulario-pro)
+- [Professional HTML Form](https://otaviofag.github.io/survey-form/)
 - More coming soon...
 
 ## 🌎 About Me
