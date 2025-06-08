@@ -18,6 +18,10 @@ I'm currently learning **Responsive Web Design** through FreeCodeCamp, and I'm u
 - Accessibility (a11y)  
 - Basic JavaScript (soon)
 
+- ## 📜 Certifications
+
+- ✅ [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/Otaviofag/responsive-web-design)
+
 ## 📂 Projects
 
 I’ll be sharing all my personal and learning projects here. Each one is a step forward in my development journey!
