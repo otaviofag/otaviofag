@@ -22,8 +22,12 @@ I'm currently learning **Responsive Web Design** through FreeCodeCamp, and I'm u
 
 I’ll be sharing all my personal and learning projects here. Each one is a step forward in my development journey!
 
+All the projects below were built using HTML and CSS, showcasing the progression of my front-end development skills. The list is organized from oldest to most recent — with the top project representing my most current and refined work in this technology stack.
+
 - [Tribute Page - Richard Rasmussen](https://otaviofag.github.io/tributo-richard/)
 - [Professional HTML Form](https://otaviofag.github.io/survey-form/)
+- [HTML-CSS-Workflow](https://otaviofag.github.io/html-css-workflow/)
+- [Landing-Page](https://otaviofag.github.io/house-cleaning-landing-page/)
 - More coming soon...
 
 ## 🌎 About Me
