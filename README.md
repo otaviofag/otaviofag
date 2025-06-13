@@ -40,6 +40,7 @@ They are listed from the oldest to the most recent — the top project represent
 I'm currently diving into Java programming!  
 This section will soon feature my first full Java projects as I continue expanding my skills beyond the front end.
 
+- [Palindrome Checker](https://otaviofag.github.io/Palindrome_Checker/)
 - Stay tuned...
 
 ## 🌎 About Me
