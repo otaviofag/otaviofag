@@ -41,7 +41,7 @@ I'm currently diving into Java programming!
 This section will soon feature my first full Java projects as I continue expanding my skills beyond the front end.
 
 - [Palindrome Checker](https://otaviofag.github.io/Palindrome_Checker/)
-- [Roman_numeral_converter_app]https://otaviofag.github.io/Roman_numeral_converter_app/
+- [Roman_numeral_converter_app](https://otaviofag.github.io/Roman_numeral_converter_app/)
 - Stay tuned...
 
 ## 🌎 About Me
