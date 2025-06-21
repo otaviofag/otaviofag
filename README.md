@@ -42,6 +42,7 @@ This section will soon feature my first full Java projects as I continue expandi
 
 - [Palindrome Checker](https://otaviofag.github.io/Palindrome_Checker/)
 - [Roman_numeral_converter_app](https://otaviofag.github.io/Roman_numeral_converter_app/)
+- [Telephone Number Validator_app](https://otaviofag.github.io/Telephone_number_validator/)
 - Stay tuned...
 
 ## 🌎 About Me
